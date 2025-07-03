@@ -1,1 +1,4 @@
 pycryptodome==3.22.0
+azure-identity==1.15.0
+azure-keyvault-keys==4.8.0
+azure-keyvault-secrets==4.8.0
